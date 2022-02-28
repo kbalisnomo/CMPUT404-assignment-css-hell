@@ -21,4 +21,10 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-
+Gutenberg Skin Modifications
+============================
+* Add repeatable yellowish paper-like background
+* Change font family to Lora serif
+* Change margins, font-size and line height for paragraphs
+* Change font size and center align each individual header tag
+* Add drop shadow to images (visible in gutenberg2.png)
